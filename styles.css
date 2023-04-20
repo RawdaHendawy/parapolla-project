@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    scroll-behavior: smooth;
+}
+.backgroundDiv{
+    background-image: url('Images/italy.jpeg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.backgroundDiv2{
+    background-image: url('Images/Dubai.jpeg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.backgroundDiv3{
+    background-image: url('Images/paris2.jpeg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.backgroundDiv4{
+
+    background-image: url('Images/end.jpeg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.style1{
+    font-family: 'Courier New', Courier, monospace;
+   
+   
+}
+.style2{
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    background-color: darkseagreen;
+}
